@@ -1,0 +1,248 @@
+2023-09-20 00:28:50,307 - INFO - 00:28
+2023-09-20 00:28:50,958 - INFO - Successfully Logged In Welcome {UserID}
+2023-09-20 00:28:51,425 - INFO - Current LTP of BANKNIFTY 45979.85
+2023-09-20 00:28:51,425 - INFO - Current Strike Price 46000
+2023-09-20 00:28:52,404 - INFO - Ce Token 50143, Ce TYSM BANKNIFTY20SEP23C46000
+2023-09-20 00:28:52,404 - INFO - Pe Token 50142, Pe TYSM BANKNIFTY20SEP23P46000
+2023-09-20 00:28:53,414 - INFO - Current Price for CE 137.45 and for PE 157.10
+2023-09-20 00:28:54,795 - INFO - Order Details: CE 23091900043519, PE 23091900043520
+2023-09-20 00:28:55,730 - INFO - Order Status of Ce REJECTED
+2023-09-20 00:28:55,730 - INFO - Order Status of Pe REJECTED
+2023-09-20 00:30:11,865 - INFO - 00:30
+2023-09-20 00:30:12,376 - INFO - Successfully Logged In Welcome {UserID}
+2023-09-20 00:30:12,848 - INFO - Current LTP of BANKNIFTY 45979.85
+2023-09-20 00:30:12,848 - INFO - Current Strike Price 46000
+2023-09-20 00:30:13,969 - INFO - Ce Token 50143, Ce TYSM BANKNIFTY20SEP23C46000
+2023-09-20 00:30:13,970 - INFO - Pe Token 50142, Pe TYSM BANKNIFTY20SEP23P46000
+2023-09-20 00:30:15,044 - INFO - Current Price for CE 137.45 and for PE 157.10
+2023-09-20 00:30:15,956 - INFO - Order Details: CE 23091900043523, PE 23091900043524
+2023-09-20 00:30:16,876 - INFO - Order Status of Ce REJECTED
+2023-09-20 00:30:16,876 - INFO - Order Status of Pe REJECTED
+2023-09-20 00:39:53,805 - INFO - 00:39
+2023-09-20 00:39:54,302 - INFO - Successfully Logged In Welcome {UserID}
+2023-09-20 00:39:54,830 - INFO - Current LTP of BANKNIFTY 45979.85
+2023-09-20 00:39:54,830 - INFO - Current Strike Price 46000
+2023-09-20 00:39:55,929 - INFO - Ce Token 50143, Ce TYSM BANKNIFTY20SEP23C46000
+2023-09-20 00:39:55,929 - INFO - Pe Token 50142, Pe TYSM BANKNIFTY20SEP23P46000
+2023-09-20 00:39:56,886 - INFO - Current Price for CE 137.45 and for PE 157.10
+2023-09-20 00:39:57,839 - INFO - Order Details: CE 23091900043536, PE 23091900043537
+2023-09-20 00:39:58,777 - INFO - Order Status of Ce REJECTED And Average Price 0.00
+2023-09-20 00:39:58,777 - INFO - Order Status of Pe REJECTED And Average Price 0.00
+2023-09-20 01:12:03,520 - INFO - 01:12
+2023-09-20 01:12:04,019 - INFO - Successfully Logged In Welcome {UserID}
+2023-09-20 01:12:04,507 - INFO - Current LTP of BANKNIFTY 45979.85
+2023-09-20 01:12:04,507 - INFO - Current Strike Price 46000
+2023-09-20 01:12:05,565 - INFO - Ce Token 50143, Ce TYSM BANKNIFTY20SEP23C46000
+2023-09-20 01:12:05,565 - INFO - Pe Token 50142, Pe TYSM BANKNIFTY20SEP23P46000
+2023-09-20 01:12:06,511 - INFO - Current Price for CE 137.45 and for PE 157.10
+2023-09-20 01:12:34,419 - INFO - 01:12
+2023-09-20 01:12:34,892 - INFO - Successfully Logged In Welcome {UserID}
+2023-09-20 01:12:35,379 - INFO - Current LTP of BANKNIFTY 45979.85
+2023-09-20 01:12:35,379 - INFO - Current Strike Price 46000
+2023-09-20 01:12:36,434 - INFO - Ce Token 50143, Ce TYSM BANKNIFTY20SEP23C46000
+2023-09-20 01:12:36,434 - INFO - Pe Token 50142, Pe TYSM BANKNIFTY20SEP23P46000
+2023-09-20 01:12:37,363 - INFO - Current Price for CE 137.45 and for PE 157.10
+2023-09-20 01:12:38,293 - INFO - Order Details: CE 23091900043585, PE 23091900043586
+2023-09-20 01:12:39,216 - INFO - Order Status of Ce REJECTED And Average Price 0.00
+2023-09-20 01:12:39,216 - INFO - Order Status of Pe REJECTED And Average Price 0.00
+2023-09-20 01:12:39,700 - INFO - Orders PE Side Rejected
+2023-09-20 01:12:40,153 - INFO - Ce Stoploss Order Status REJECTED And Average Price of the CE Stoploss 50.00
+2023-09-20 01:12:40,153 - INFO - Order Status Checking for Stoploss PE Side Failed cannot access local variable 'pe_stoploss' where it is not associated with a value
+2023-09-20 01:15:36,563 - INFO - 01:15
+2023-09-20 01:15:37,035 - INFO - Successfully Logged In Welcome {UserID}
+2023-09-20 01:15:37,493 - INFO - Current LTP of BANKNIFTY 45979.85
+2023-09-20 01:15:37,493 - INFO - Current Strike Price 46000
+2023-09-20 01:15:38,531 - INFO - Ce Token 50143, Ce TYSM BANKNIFTY20SEP23C46000
+2023-09-20 01:15:38,531 - INFO - Pe Token 50142, Pe TYSM BANKNIFTY20SEP23P46000
+2023-09-20 01:15:39,526 - INFO - Current Price for CE 137.45 and for PE 157.10
+2023-09-20 01:15:40,461 - INFO - Order Details: CE 23091900043589, PE 23091900043590
+2023-09-20 01:15:41,403 - INFO - Order Status of Ce REJECTED And Average Price 0.00
+2023-09-20 01:15:41,404 - INFO - Order Status of Pe REJECTED And Average Price 0.00
+2023-09-20 01:15:42,806 - INFO - Ce Stoploss Order Status REJECTED And Average Price of the CE Stoploss 50.00
+2023-09-20 01:15:43,273 - INFO - Ce Stoploss Order Status REJECTED And Average Price of the PE Stoploss 50.00
+2023-09-20 01:16:49,532 - INFO - 01:16
+2023-09-20 01:16:50,022 - INFO - Successfully Logged In Welcome {UserID}
+2023-09-20 01:16:50,471 - INFO - Current LTP of BANKNIFTY 45979.85
+2023-09-20 01:16:50,471 - INFO - Current Strike Price 46000
+2023-09-20 01:16:51,447 - INFO - Ce Token 50143, Ce TYSM BANKNIFTY20SEP23C46000
+2023-09-20 01:16:51,447 - INFO - Pe Token 50142, Pe TYSM BANKNIFTY20SEP23P46000
+2023-09-20 01:16:52,376 - INFO - Current Price for CE 137.45 and for PE 157.10
+2023-09-20 01:16:53,297 - INFO - Order Details: CE 23091900043593, PE 23091900043594
+2023-09-20 01:16:54,232 - INFO - Order Status of Ce REJECTED And Average Price 0.00
+2023-09-20 01:16:54,232 - INFO - Order Status of Pe REJECTED And Average Price 0.00
+2023-09-20 01:16:55,628 - INFO - Ce Stoploss Order Status REJECTED And Average Price of the CE Stoploss 50.00
+2023-09-20 01:16:56,081 - INFO - Pe Stoploss Order Status REJECTED And Average Price of the PE Stoploss 50.00
+2023-09-20 01:16:56,081 - INFO - Everything Placed Active Monitoring Now
+2023-09-20 01:31:21,027 - INFO - 01:31
+2023-09-20 01:31:21,902 - INFO - Successfully Logged In Welcome {UserID}
+2023-09-20 01:31:22,370 - INFO - Current LTP of BANKNIFTY 45979.85
+2023-09-20 01:31:22,370 - INFO - Current Strike Price 46000
+2023-09-20 01:31:23,388 - INFO - Ce Token 50143, Ce TYSM BANKNIFTY20SEP23C46000
+2023-09-20 01:31:23,388 - INFO - Pe Token 50142, Pe TYSM BANKNIFTY20SEP23P46000
+2023-09-20 01:31:24,317 - INFO - Current Price for CE 137.45 and for PE 157.10
+2023-09-20 01:31:34,713 - INFO - 01:31
+2023-09-20 01:31:35,163 - INFO - Successfully Logged In Welcome {UserID}
+2023-09-20 01:31:35,655 - INFO - Current LTP of BANKNIFTY 45979.85
+2023-09-20 01:31:35,655 - INFO - Current Strike Price 46000
+2023-09-20 01:31:36,806 - INFO - Ce Token 50143, Ce TYSM BANKNIFTY20SEP23C46000
+2023-09-20 01:31:36,806 - INFO - Pe Token 50142, Pe TYSM BANKNIFTY20SEP23P46000
+2023-09-20 01:31:37,690 - INFO - Current Price for CE 137.45 and for PE 157.10
+2023-09-20 01:31:38,591 - INFO - Order Details: CE 23091900043645, PE 23091900043646
+2023-09-20 01:31:39,517 - INFO - Order Status of Ce REJECTED And Average Price 0.00
+2023-09-20 01:31:39,517 - INFO - Order Status of Pe REJECTED And Average Price 0.00
+2023-09-20 01:31:39,518 - INFO - Orders CE Side Rejected
+2023-09-20 01:31:39,518 - INFO - Order PE Side Rejected
+2023-09-20 01:31:39,518 - INFO - Order Status Checking for Stoploss CE Side Failed cannot access local variable 'ce_stoploss' where it is not associated with a value
+2023-09-20 01:31:39,518 - INFO - Order Status Checking for Stoploss PE Side Failed cannot access local variable 'pe_stoploss' where it is not associated with a value
+2023-09-20 01:36:43,435 - INFO - 01:36
+2023-09-20 01:36:43,917 - INFO - Successfully Logged In Welcome {UserID}
+2023-09-20 01:36:44,368 - INFO - Current LTP of BANKNIFTY 45979.85
+2023-09-20 01:36:44,368 - INFO - Current Strike Price 46000
+2023-09-20 01:36:45,363 - INFO - Ce Token 50143, Ce TYSM BANKNIFTY20SEP23C46000
+2023-09-20 01:36:45,363 - INFO - Pe Token 50142, Pe TYSM BANKNIFTY20SEP23P46000
+2023-09-20 01:36:46,284 - INFO - Current Price for CE 137.45 and for PE 157.10
+2023-09-20 01:36:47,194 - INFO - Order Details: CE 23091900043661, PE 23091900043662
+2023-09-20 01:36:48,131 - INFO - Order Status of Ce REJECTED And Average Price 0.00
+2023-09-20 01:36:48,131 - INFO - Order Status of Pe REJECTED And Average Price 0.00
+2023-09-20 01:36:48,131 - INFO - Orders CE Side Rejected
+2023-09-20 01:36:48,131 - INFO - Order PE Side Rejected
+2023-09-20 01:38:23,589 - INFO - 01:38
+2023-09-20 01:38:24,050 - INFO - Successfully Logged In Welcome {UserID}
+2023-09-20 01:38:24,513 - INFO - Current LTP of BANKNIFTY 45979.85
+2023-09-20 01:38:24,513 - INFO - Current Strike Price 46000
+2023-09-20 01:38:25,463 - INFO - Ce Token 50143, Ce TYSM BANKNIFTY20SEP23C46000
+2023-09-20 01:38:25,463 - INFO - Pe Token 50142, Pe TYSM BANKNIFTY20SEP23P46000
+2023-09-20 01:38:26,427 - INFO - Current Price for CE 137.45 and for PE 157.10
+2023-09-20 01:38:27,318 - INFO - Order Details: CE 23091900043673, PE 23091900043674
+2023-09-20 01:38:28,235 - INFO - Order Status of Ce REJECTED And Average Price 0.00
+2023-09-20 01:38:28,236 - INFO - Order Status of Pe REJECTED And Average Price 0.00
+2023-09-20 01:38:28,236 - INFO - Orders CE Side Rejected
+2023-09-20 01:38:28,236 - INFO - Order PE Side Rejected
+2023-09-20 01:38:29,167 - INFO - Order Details: CE 23091900043675, PE 23091900043676
+2023-09-20 01:38:30,072 - INFO - Order Status of Ce REJECTED And Average Price 0.00
+2023-09-20 01:38:30,072 - INFO - Order Status of Pe REJECTED And Average Price 0.00
+2023-09-20 01:38:30,072 - INFO - Orders CE Side Rejected
+2023-09-20 01:38:30,072 - INFO - Order PE Side Rejected
+2023-09-20 01:38:31,005 - INFO - Order Details: CE 23091900043677, PE 23091900043678
+2023-09-20 01:38:31,886 - INFO - Order Status of Ce REJECTED And Average Price 0.00
+2023-09-20 01:38:31,886 - INFO - Order Status of Pe REJECTED And Average Price 0.00
+2023-09-20 01:38:31,886 - INFO - Orders CE Side Rejected
+2023-09-20 01:38:31,886 - INFO - Order PE Side Rejected
+2023-09-20 01:38:32,808 - INFO - Order Details: CE 23091900043679, PE 23091900043680
+2023-09-20 01:38:33,734 - INFO - Order Status of Ce REJECTED And Average Price 0.00
+2023-09-20 01:38:33,734 - INFO - Order Status of Pe REJECTED And Average Price 0.00
+2023-09-20 01:38:33,734 - INFO - Orders CE Side Rejected
+2023-09-20 01:38:33,734 - INFO - Order PE Side Rejected
+2023-09-20 01:38:34,695 - INFO - Order Details: CE 23091900043681, PE 23091900043682
+2023-09-20 01:39:27,500 - INFO - 01:39
+2023-09-20 01:39:27,949 - INFO - Successfully Logged In Welcome {UserID}
+2023-09-20 01:39:28,414 - INFO - Current LTP of BANKNIFTY 45979.85
+2023-09-20 01:39:28,415 - INFO - Current Strike Price 46000
+2023-09-20 01:39:29,392 - INFO - Ce Token 50143, Ce TYSM BANKNIFTY20SEP23C46000
+2023-09-20 01:39:29,393 - INFO - Pe Token 50142, Pe TYSM BANKNIFTY20SEP23P46000
+2023-09-20 01:39:30,299 - INFO - Current Price for CE 137.45 and for PE 157.10
+2023-09-20 01:39:31,189 - INFO - Order Details: CE 23091900043685, PE 23091900043686
+2023-09-20 01:39:32,104 - INFO - Order Status of Ce REJECTED And Average Price 0.00
+2023-09-20 01:39:32,104 - INFO - Order Status of Pe REJECTED And Average Price 0.00
+2023-09-20 01:39:32,104 - INFO - Orders CE Side Rejected
+2023-09-20 01:39:32,104 - INFO - Order PE Side Rejected
+2023-09-20 01:39:32,104 - INFO - Order Status Checking for Stoploss CE Side Failed cannot access local variable 'ce_stoploss' where it is not associated with a value
+2023-09-20 01:39:32,104 - INFO - Order Status Checking for Stoploss PE Side Failed cannot access local variable 'pe_stoploss' where it is not associated with a value
+2023-09-20 01:42:08,379 - INFO - 01:42
+2023-09-20 01:42:08,914 - INFO - Successfully Logged In Welcome {UserID}
+2023-09-20 01:42:09,370 - INFO - Current LTP of BANKNIFTY 45979.85
+2023-09-20 01:42:09,371 - INFO - Current Strike Price 46000
+2023-09-20 01:42:10,341 - INFO - Ce Token 50143, Ce TYSM BANKNIFTY20SEP23C46000
+2023-09-20 01:42:10,342 - INFO - Pe Token 50142, Pe TYSM BANKNIFTY20SEP23P46000
+2023-09-20 01:42:11,261 - INFO - Current Price for CE 137.45 and for PE 157.10
+2023-09-20 01:42:12,189 - INFO - Order Details: CE 23091900043699, PE 23091900043700
+2023-09-20 01:42:13,090 - INFO - Order Status of Ce REJECTED And Average Price 0.00
+2023-09-20 01:42:13,090 - INFO - Order Status of Pe REJECTED And Average Price 0.00
+2023-09-20 01:42:13,090 - INFO - Orders CE Side Rejected
+2023-09-20 01:42:13,090 - INFO - Order PE Side Rejected
+2023-09-20 18:31:45,360 - INFO - 18:31
+2023-09-20 18:31:45,864 - INFO - Successfully Logged In Welcome {UserID}
+2023-09-20 18:31:46,329 - INFO - Current LTP of BANKNIFTY 45384.60
+2023-09-20 18:31:46,329 - INFO - Current Strike Price 45400
+2023-09-20 18:31:47,418 - INFO - Ce Token 50129, Ce TYSM BANKNIFTY20SEP23C45400
+2023-09-20 18:31:47,418 - INFO - Pe Token 50128, Pe TYSM BANKNIFTY20SEP23P45400
+2023-09-20 18:31:48,359 - INFO - Current Price for CE 16.40 and for PE 0.05
+2023-09-20 18:32:01,717 - INFO - 18:32
+2023-09-20 18:32:02,511 - INFO - Successfully Logged In Welcome {UserID}
+2023-09-20 18:32:03,183 - INFO - Current LTP of BANKNIFTY 45384.60
+2023-09-20 18:32:03,183 - INFO - Current Strike Price 45400
+2023-09-20 18:32:04,151 - INFO - Ce Token 50129, Ce TYSM BANKNIFTY20SEP23C45400
+2023-09-20 18:32:04,151 - INFO - Pe Token 50128, Pe TYSM BANKNIFTY20SEP23P45400
+2023-09-20 18:32:05,039 - INFO - Current Price for CE 16.40 and for PE 0.05
+2023-09-20 18:32:05,950 - INFO - Order Details: CE 23092001012235, PE 23092001012236
+2023-09-20 18:32:06,864 - INFO - Order Status of Ce REJECTED And Average Price 0.00
+2023-09-20 18:32:06,864 - INFO - Order Status of Pe REJECTED And Average Price 0.00
+2023-09-20 18:32:06,864 - INFO - Orders CE Side Rejected
+2023-09-20 18:32:06,864 - INFO - Order PE Side Rejected
+2023-09-20 18:33:15,769 - INFO - 18:33
+2023-09-20 18:33:16,213 - INFO - Successfully Logged In Welcome {UserID}
+2023-09-20 18:33:16,665 - INFO - Current LTP of BANKNIFTY 45384.60
+2023-09-20 18:33:16,665 - INFO - Current Strike Price 45400
+2023-09-20 18:33:17,683 - INFO - Ce Token 50129, Ce TYSM BANKNIFTY20SEP23C45400
+2023-09-20 18:33:17,683 - INFO - Pe Token 50128, Pe TYSM BANKNIFTY20SEP23P45400
+2023-09-20 18:33:18,588 - INFO - Current Price for CE 16.40 and for PE 0.05
+2023-09-20 18:33:19,508 - INFO - Order Details: CE 23092001012308, PE 23092001012309
+2023-09-20 18:33:20,398 - INFO - Order Status of Ce REJECTED And Average Price 0.00
+2023-09-20 18:33:20,398 - INFO - Order Status of Pe REJECTED And Average Price 0.00
+2023-09-20 18:33:20,398 - INFO - Orders CE Side Rejected
+2023-09-20 18:33:20,398 - INFO - Order PE Side Rejected
+2023-09-20 18:33:29,254 - INFO - 18:33
+2023-09-20 18:33:29,709 - INFO - Successfully Logged In Welcome {UserID}
+2023-09-20 18:33:30,196 - INFO - Current LTP of BANKNIFTY 45384.60
+2023-09-20 18:33:30,196 - INFO - Current Strike Price 45400
+2023-09-20 18:33:31,235 - INFO - Ce Token 50129, Ce TYSM BANKNIFTY20SEP23C45400
+2023-09-20 18:33:31,235 - INFO - Pe Token 50128, Pe TYSM BANKNIFTY20SEP23P45400
+2023-09-20 18:33:32,160 - INFO - Current Price for CE 16.40 and for PE 0.05
+2023-09-20 18:33:33,095 - INFO - Order Details: CE 23092001012324, PE 23092001012325
+2023-09-20 18:33:34,061 - INFO - Order Status of Ce REJECTED And Average Price 0.00
+2023-09-20 18:33:34,061 - INFO - Order Status of Pe REJECTED And Average Price 0.00
+2023-09-20 18:33:34,061 - INFO - Orders CE Side Rejected
+2023-09-20 18:33:34,061 - INFO - Order PE Side Rejected
+2023-09-20 18:33:34,062 - INFO - Order Status Checking for Stoploss CE Side Failed cannot access local variable 'ce_stoploss' where it is not associated with a value
+2023-09-20 18:33:34,063 - INFO - Order Status Checking for Stoploss PE Side Failed cannot access local variable 'pe_stoploss' where it is not associated with a value
+2023-09-20 18:34:19,469 - INFO - 18:34
+2023-09-20 18:34:19,922 - INFO - Successfully Logged In Welcome {UserID}
+2023-09-20 18:34:20,427 - INFO - Current LTP of BANKNIFTY 45384.60
+2023-09-20 18:34:20,427 - INFO - Current Strike Price 45400
+2023-09-20 18:34:21,374 - INFO - Ce Token 50129, Ce TYSM BANKNIFTY20SEP23C45400
+2023-09-20 18:34:21,374 - INFO - Pe Token 50128, Pe TYSM BANKNIFTY20SEP23P45400
+2023-09-20 18:34:22,267 - INFO - Current Price for CE 16.40 and for PE 0.05
+2023-09-20 18:34:23,206 - INFO - Order Details: CE 23092001012372, PE 23092001012373
+2023-09-20 18:34:24,116 - INFO - Order Status of Ce REJECTED And Average Price 0.00
+2023-09-20 18:34:24,117 - INFO - Order Status of Pe REJECTED And Average Price 0.00
+2023-09-20 18:34:24,117 - INFO - Orders CE Side Rejected
+2023-09-20 18:34:24,117 - INFO - Order PE Side Rejected
+2023-09-20 18:34:24,117 - INFO - Order Status Checking for Stoploss CE Side Failed cannot access local variable 'ce_stoploss' where it is not associated with a value
+2023-09-20 18:34:24,117 - INFO - Order Status Checking for Stoploss PE Side Failed cannot access local variable 'pe_stoploss' where it is not associated with a value
+2023-09-20 18:35:36,984 - INFO - 18:35
+2023-09-20 18:35:37,467 - INFO - Successfully Logged In Welcome {UserID}
+2023-09-20 18:35:37,927 - INFO - Current LTP of BANKNIFTY 45384.60
+2023-09-20 18:35:37,928 - INFO - Current Strike Price 45400
+2023-09-20 18:35:38,875 - INFO - Ce Token 50129, Ce TYSM BANKNIFTY20SEP23C45400
+2023-09-20 18:35:38,875 - INFO - Pe Token 50128, Pe TYSM BANKNIFTY20SEP23P45400
+2023-09-20 18:35:39,964 - INFO - Current Price for CE 16.40 and for PE 0.05
+2023-09-20 18:35:40,855 - INFO - Order Details: CE 23092001012444, PE 23092001012445
+2023-09-20 18:35:41,755 - INFO - Order Status of Ce REJECTED And Average Price 0.00
+2023-09-20 18:35:41,755 - INFO - Order Status of Pe REJECTED And Average Price 0.00
+2023-09-20 18:35:43,147 - INFO - Ce Stoploss Order Status REJECTED And Average Price of the CE Stoploss 50.00
+2023-09-20 18:35:43,599 - INFO - Pe Stoploss Order Status REJECTED And Average Price of the PE Stoploss 50.00
+2023-09-20 18:44:56,052 - INFO - 18:44
+2023-09-20 18:44:56,517 - INFO - Successfully Logged In Welcome {UserID}
+2023-09-20 18:44:56,961 - INFO - Current LTP of BANKNIFTY 45384.60
+2023-09-20 18:44:56,961 - INFO - Current Strike Price 45400
+2023-09-20 18:44:57,950 - INFO - Ce Token 50129, Ce TYSM BANKNIFTY20SEP23C45400
+2023-09-20 18:44:57,950 - INFO - Pe Token 50128, Pe TYSM BANKNIFTY20SEP23P45400
+2023-09-20 18:44:58,861 - INFO - Current Price for CE 16.40 and for PE 0.05
+2023-09-20 18:44:59,774 - INFO - Straddle Order Placed Details: CE 23092001012922, PE 23092001012923
+2023-09-20 18:45:00,692 - INFO - Order Status Main Staddle Ce REJECTED And Average Price 0.00
+2023-09-20 18:45:00,692 - INFO - Order Status of Main Straddle Pe REJECTED And Average Price 0.00
+2023-09-20 18:45:01,158 - INFO - CE Stoploss Placed Successfully, CE Stoploss Details 23092001012926
+2023-09-20 18:45:01,902 - INFO - PE Stoploss Placed Successfully, PE Stoploss Details 23092001012928
+2023-09-20 18:45:03,010 - INFO - Ce Stoploss Order Status REJECTED And Average Price of the CE Stoploss 50.00
+2023-09-20 18:45:03,455 - INFO - Pe Stoploss Order Status REJECTED And Average Price of the PE Stoploss 50.00
+2023-09-20 18:45:03,455 - INFO - Everything Placed Successfully Active Monitoring Now
