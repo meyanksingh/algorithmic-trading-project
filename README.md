@@ -62,7 +62,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-- Email: meyank@itrenzy.com
+
 - LinkedIn: [Meyank Singh](https://www.linkedin.com/in/meyank-singh)
 
 ---
